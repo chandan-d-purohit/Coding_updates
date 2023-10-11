@@ -1,3 +1,3 @@
 Hello all,
 
-This is my firs
+This is my first
